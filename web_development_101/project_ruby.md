@@ -185,6 +185,7 @@ This exercise will involve a lot of figuring things out.  There aren't very deta
 * [Veselin Ivanov's Solution](https://github.com/terlica/Odin_ruby_project)
 * [Emil Dimitrov's Solution](https://github.com/emo1/basic-ruby)
 * [Tom Bell's Solution](https://github.com/bellt/learn_ruby)
+* [Michael Marquez's Solution](https://github.com/maraken/learn_ruby)
 * Add your solution above this line!
 
 ## Additional Resources
